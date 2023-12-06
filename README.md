@@ -4,15 +4,25 @@ The General Tester Box project aims to create a versatile housing unit for elect
 
 ## Images
 
+General Tester Box Assembly in SOLIDWORKS
+
 ![General Tester Box Assembly in SOLIDWORKS](Pic_Box.JPG)
+
+Box front pannel
 
 ![Box front pannel](Front.JPG)
 
+Box back pannel
+
 ![Box back pannel](Back.JPG)
 
-![Company: Dr Gal Ben-Davie DSP ltd.](Company.JPG)
+Inside the box
 
 ![Inside the box](Box_Inside.JPG)
+
+Company: Dr Gal Ben-Davie DSP ltd.
+
+![Company: Dr Gal Ben-Davie DSP ltd.](Company.png)
 
 
 ## Components Included:
