@@ -27,7 +27,7 @@ Company: Dr Gal Ben-Davie DSP ltd.
 
 ## Components Included:
 
-- **Two 432W Power Supplies**: Capable of providing stable power to the electronic circuits under test.
+- **Two Benchtop Power Supplies**: Capable of providing stable power to the electronic circuits under test.
 - **28 LEDs**: Used for indicating various states or functionalities of the tested circuit.
 - **Switch Activated by Key**: Enhances security and control over the operation of the tester box.
 - **Connectors**:
