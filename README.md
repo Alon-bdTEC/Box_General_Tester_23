@@ -20,10 +20,6 @@ Inside the box
 
 ![Inside the box](Box_Inside.JPG)
 
-Company: Dr Gal Ben-Davie DSP ltd.
-
-![Company: Dr Gal Ben-Davie DSP ltd.](Company.png)
-
 
 ## Components Included:
 
@@ -59,3 +55,7 @@ This project was developed and contributed to by Dr Gal Ben David and Alon Omer 
 ## Company:
 
 This project is under the company Dr. Gal Ben-David DSP ltd. Last Updated in 6/12/23
+
+Company: Dr Gal Ben-Davie DSP ltd.
+
+![Company: Dr Gal Ben-Davie DSP ltd.](Company.png)
