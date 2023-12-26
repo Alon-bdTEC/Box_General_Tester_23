@@ -20,6 +20,21 @@ Inside the box
 
 ![Inside the box](Box_Inside.JPG)
 
+Box Prototype Pictures
+
+![Image 1 Alt Text](Pictures/Box_Prototype_1.jpeg)
+
+![Image 2 Alt Text](Pictures/Box_Prototype_2.jpeg)
+
+![Image 3 Alt Text](Pictures/Box_Prototype_3.jpeg)
+
+![Image 4 Alt Text](Pictures/Box_Prototype_4.jpeg)
+
+![Image 5 Alt Text](Pictures/Box_Prototype_5.jpeg)
+
+![Image 6 Alt Text](Pictures/Box_Prototype_6.jpeg)
+
+
 
 ## Components Included:
 
